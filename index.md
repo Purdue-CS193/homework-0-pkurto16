@@ -1,8 +1,8 @@
-#Peter Kurto's First CS193 Homework
+# Peter Kurto's First CS193 Homework
 ### My Favorite Things About CS193
--Learning things useful for my cs240 class where we aren't allowed to use an IDE
--Getting practice with GIT
--
+- Learning things useful for my cs240 class where we aren't allowed to use an IDE
+- Getting practice with GIT
+- Seeing friends in class
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
